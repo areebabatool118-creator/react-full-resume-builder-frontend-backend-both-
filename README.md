@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# react-full-resume-builder-frontend-backend-both-
+A full-stack Resume Builder built with React.js (frontend), Express.js (backend), and PostgreSQL (database). This project allows users to create, edit, delete, and download resumes with a modern, responsive interface and secure authentication.
+>>>>>>> f62ed25547e6a2b8a8e7e3f76d36a17d2f728dbb
